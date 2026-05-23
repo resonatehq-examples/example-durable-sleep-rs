@@ -4,6 +4,12 @@
   <img alt="Durable Sleep banner" src="./assets/banner-light.png">
 </picture>
 
+<p align="center">
+  <a href="https://resonatehq.github.io/examples-ci/">
+    <img src="https://img.shields.io/endpoint?url=https://resonatehq.github.io/examples-ci/status/example-durable-sleep-rs.json" alt="examples-ci status">
+  </a>
+</p>
+
 # Durable Sleep
 
 **Resonate Rust SDK**
