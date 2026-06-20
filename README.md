@@ -54,7 +54,7 @@ brew install resonatehq/tap/resonate
 resonate dev
 ```
 
-If you don't have brew, try one of these other [installation options](https://docs.resonatehq.io/operate/server-installation).
+If you don't have brew, try one of these other [installation options](https://docs.resonatehq.io/deploy/run-server).
 
 You will need 2 terminals to run this example, one for the Worker and one for the Client. This does not include the terminal where you started the Resonate Server.
 
