@@ -14,6 +14,6 @@ name = "client"
 path = "src/bin/client.rs"
 
 [dependencies]
-resonate = { package = "resonate-sdk", version = "0.4.0" }
+resonate = { package = "resonate-sdk", version = "0.6.0" }
 tokio = { version = "1", features = ["full"] }
 serde = { version = "1", features = ["derive"] }
